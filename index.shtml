@@ -17,7 +17,9 @@
 <body>
     <div id="outer-border">
         <div id="inner-border">
-            <p>Render Site: <a href=""></a></p>
+            <p>Render Site: <a
+                    href="https://render-static-site-yqsg.onrender.com">https://render-static-site-yqsg.onrender.com</a>
+            </p>
             <table>
                 <thead>
                     <tr>
