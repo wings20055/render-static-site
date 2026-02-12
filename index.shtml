@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+</html>
+
+<head>
+    <p>Kenneth Lee</p>
+    <link rel="icon" type="image/png" href="favicon-96x96.png">
+    <title>UMD HTML/CSS Summer Camp</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div id="outer-border">
+        <div id="inner-border">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Guy 1</th>
+                        <th>Guy 2</th>
+                        <th>Guy 3</th>
+                        <th>Guy 4</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Girl 1</td>
+                        <td>Girl 2</td>
+                        <td>Girl 3</td>
+                        <td>Girl 4</td>
+                    </tr>
+                    <tr>
+                        <td>filler1</td>
+                        <td>filler2</td>
+                        <td>filler3</td>
+                        <td>filler4</td>
+                    </tr>
+                    <tr>
+                        <td>table1</td>
+                        <td>table2</td>
+                        <td>table3</td>
+                        <td>table4</td>
+                    </tr>
+                    <tr>
+                        <td>word1</td>
+                        <td>word2</td>
+                        <td>word3</td>
+                        <td>word4</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><a href="https://www.youtube.com/watch?v=pADjhswefuE">https://www.youtube.com/watch?v=pADjhswefuE</a></p>
+        </div>
+    </div>
+</body>
+<strong>Last Modified: </strong><!--#echo var="LAST_MODIFIED" --><br>
